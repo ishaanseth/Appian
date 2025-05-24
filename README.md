@@ -2,7 +2,7 @@
  Submissions of Team Skibidi Gooners for the Appian x AI Club Hackathon
 
 * Teammates
-* - Ishaan Seth (EE23B110)
+  - Ishaan Seth (EE23B110)
   - Shreenath Nair (EE23B105)
 
 
