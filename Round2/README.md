@@ -51,7 +51,7 @@ The application supports voice commands for navigation and interaction:
 *   **Activation:** Click the microphone icon in the header to start listening. Click again or wait for a command to be processed to stop.
 *   **Navigation:**
     *   Say "Open [Tool Name]" or "Go to [Tool Name]" (e.g., "Open Image Describer", "Go to Color Contrast"). The AI will interpret your intent and switch to the most likely tool.
-*   **Feature-Specific Commands (Examples):**
+*   **Feature-Specific Commands (Future Examples):**
     *   **Image Describer:** After selecting an image, say "Analyze image" or "Describe image."
     *   **Color Contrast:** Say "Check contrast." You can also try "Check contrast #FF0000 on #FFFFFF" or "Check contrast black on white."
     *   **Text Simplifier:** After entering text, say "Simplify text." You can also say "Input text [your text here]" or "Simplify this text [your text here]".
